@@ -11,15 +11,15 @@ global.botnumber = ""
 
 global.owner = [
   ['50247342200', '👑 Mystic - Creador 👑', true],
-  ['51919730753', '💫 Mystic - Collaborator 1 💫
+  ['50247342200', '💫 Mystic - Collaborator 1 💫
 
-global.suittag = ['51919730753'];
-global.prems = ['51919730753'];
+global.suittag = ['50247342200'];
+global.prems = ['50247342200'];
 
-global.sms 'Gracias por comunicarte con Zëthian bot. 
+global.sms 'Gracias por comunicarte con Zëthian bot.' 
 
-Para adquirir el bot debes compartir un link a minimo 10 adv's. 
-Si no cuentas con los adv's suficientes comunícate directamente con el dueño del bot para llegar a un acuerdo. 
+'Para adquirir el bot debes compartir un link a minimo 10 advs. 
+Si no cuentas con los advs suficientes comunícate directamente con el dueño del bot para llegar a un acuerdo. 
 +502 4734 2200'
 global.packname = 'Sticker';
 global.author = 'The Mystic - Bot';
